@@ -123,32 +123,32 @@ eastgerm_algo/fast:
 	$(MAKE) -f CMakeFiles/eastgerm_algo.dir/build.make CMakeFiles/eastgerm_algo.dir/build
 .PHONY : eastgerm_algo/fast
 
-BOJ/basic/1000._A+B.o: BOJ/basic/1000._A+B.cpp.o
+BOJ/Basic/1000._A+B.o: BOJ/Basic/1000._A+B.cpp.o
 
-.PHONY : BOJ/basic/1000._A+B.o
+.PHONY : BOJ/Basic/1000._A+B.o
 
 # target to build an object file
-BOJ/basic/1000._A+B.cpp.o:
-	$(MAKE) -f CMakeFiles/eastgerm_algo.dir/build.make CMakeFiles/eastgerm_algo.dir/BOJ/basic/1000._A+B.cpp.o
-.PHONY : BOJ/basic/1000._A+B.cpp.o
+BOJ/Basic/1000._A+B.cpp.o:
+	$(MAKE) -f CMakeFiles/eastgerm_algo.dir/build.make CMakeFiles/eastgerm_algo.dir/BOJ/Basic/1000._A+B.cpp.o
+.PHONY : BOJ/Basic/1000._A+B.cpp.o
 
-BOJ/basic/1000._A+B.i: BOJ/basic/1000._A+B.cpp.i
+BOJ/Basic/1000._A+B.i: BOJ/Basic/1000._A+B.cpp.i
 
-.PHONY : BOJ/basic/1000._A+B.i
+.PHONY : BOJ/Basic/1000._A+B.i
 
 # target to preprocess a source file
-BOJ/basic/1000._A+B.cpp.i:
-	$(MAKE) -f CMakeFiles/eastgerm_algo.dir/build.make CMakeFiles/eastgerm_algo.dir/BOJ/basic/1000._A+B.cpp.i
-.PHONY : BOJ/basic/1000._A+B.cpp.i
+BOJ/Basic/1000._A+B.cpp.i:
+	$(MAKE) -f CMakeFiles/eastgerm_algo.dir/build.make CMakeFiles/eastgerm_algo.dir/BOJ/Basic/1000._A+B.cpp.i
+.PHONY : BOJ/Basic/1000._A+B.cpp.i
 
-BOJ/basic/1000._A+B.s: BOJ/basic/1000._A+B.cpp.s
+BOJ/Basic/1000._A+B.s: BOJ/Basic/1000._A+B.cpp.s
 
-.PHONY : BOJ/basic/1000._A+B.s
+.PHONY : BOJ/Basic/1000._A+B.s
 
 # target to generate assembly for a file
-BOJ/basic/1000._A+B.cpp.s:
-	$(MAKE) -f CMakeFiles/eastgerm_algo.dir/build.make CMakeFiles/eastgerm_algo.dir/BOJ/basic/1000._A+B.cpp.s
-.PHONY : BOJ/basic/1000._A+B.cpp.s
+BOJ/Basic/1000._A+B.cpp.s:
+	$(MAKE) -f CMakeFiles/eastgerm_algo.dir/build.make CMakeFiles/eastgerm_algo.dir/BOJ/Basic/1000._A+B.cpp.s
+.PHONY : BOJ/Basic/1000._A+B.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... eastgerm_algo"
-	@echo "... BOJ/basic/1000._A+B.o"
-	@echo "... BOJ/basic/1000._A+B.i"
-	@echo "... BOJ/basic/1000._A+B.s"
+	@echo "... BOJ/Basic/1000._A+B.o"
+	@echo "... BOJ/Basic/1000._A+B.i"
+	@echo "... BOJ/Basic/1000._A+B.s"
 .PHONY : help
 
 

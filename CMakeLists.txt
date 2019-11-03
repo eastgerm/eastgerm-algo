@@ -3,4 +3,4 @@ project(eastgerm_algo)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(eastgerm_algo "BOJ/basic/1000. A+B.cpp")
+add_executable(eastgerm_algo "BOJ/Basic/1000. A+B.cpp")
