@@ -150,6 +150,33 @@ BOJ/Basic/1000._A+B.cpp.s:
 	$(MAKE) -f CMakeFiles/eastgerm_algo.dir/build.make CMakeFiles/eastgerm_algo.dir/BOJ/Basic/1000._A+B.cpp.s
 .PHONY : BOJ/Basic/1000._A+B.cpp.s
 
+BOJ/Basic/1008._A_divide_B.o: BOJ/Basic/1008._A_divide_B.cpp.o
+
+.PHONY : BOJ/Basic/1008._A_divide_B.o
+
+# target to build an object file
+BOJ/Basic/1008._A_divide_B.cpp.o:
+	$(MAKE) -f CMakeFiles/eastgerm_algo.dir/build.make CMakeFiles/eastgerm_algo.dir/BOJ/Basic/1008._A_divide_B.cpp.o
+.PHONY : BOJ/Basic/1008._A_divide_B.cpp.o
+
+BOJ/Basic/1008._A_divide_B.i: BOJ/Basic/1008._A_divide_B.cpp.i
+
+.PHONY : BOJ/Basic/1008._A_divide_B.i
+
+# target to preprocess a source file
+BOJ/Basic/1008._A_divide_B.cpp.i:
+	$(MAKE) -f CMakeFiles/eastgerm_algo.dir/build.make CMakeFiles/eastgerm_algo.dir/BOJ/Basic/1008._A_divide_B.cpp.i
+.PHONY : BOJ/Basic/1008._A_divide_B.cpp.i
+
+BOJ/Basic/1008._A_divide_B.s: BOJ/Basic/1008._A_divide_B.cpp.s
+
+.PHONY : BOJ/Basic/1008._A_divide_B.s
+
+# target to generate assembly for a file
+BOJ/Basic/1008._A_divide_B.cpp.s:
+	$(MAKE) -f CMakeFiles/eastgerm_algo.dir/build.make CMakeFiles/eastgerm_algo.dir/BOJ/Basic/1008._A_divide_B.cpp.s
+.PHONY : BOJ/Basic/1008._A_divide_B.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -162,6 +189,9 @@ help:
 	@echo "... BOJ/Basic/1000._A+B.o"
 	@echo "... BOJ/Basic/1000._A+B.i"
 	@echo "... BOJ/Basic/1000._A+B.s"
+	@echo "... BOJ/Basic/1008._A_divide_B.o"
+	@echo "... BOJ/Basic/1008._A_divide_B.i"
+	@echo "... BOJ/Basic/1008._A_divide_B.s"
 .PHONY : help
 
 

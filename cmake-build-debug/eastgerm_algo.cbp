@@ -83,6 +83,9 @@
 		<Unit filename="/Users/kimdong/Desktop/eastgerm-algo/BOJ/Basic/1000. A+B.cpp">
 			<Option target="eastgerm_algo"/>
 		</Unit>
+		<Unit filename="/Users/kimdong/Desktop/eastgerm-algo/BOJ/Basic/1008. A divide B.cpp">
+			<Option target="eastgerm_algo"/>
+		</Unit>
 		<Unit filename="/Users/kimdong/Desktop/eastgerm-algo/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
