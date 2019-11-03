@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/kimdong/Desktop/eastgerm-algo/BOJ/1000. A+B.cpp">
+		<Unit filename="/Users/kimdong/Desktop/eastgerm-algo/BOJ/basic/1000. A+B.cpp">
 			<Option target="eastgerm_algo"/>
 		</Unit>
 		<Unit filename="/Users/kimdong/Desktop/eastgerm-algo/CMakeLists.txt">
