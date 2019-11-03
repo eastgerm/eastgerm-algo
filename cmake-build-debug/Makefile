@@ -177,6 +177,33 @@ BOJ/Basic/1008._A_divide_B.cpp.s:
 	$(MAKE) -f CMakeFiles/eastgerm_algo.dir/build.make CMakeFiles/eastgerm_algo.dir/BOJ/Basic/1008._A_divide_B.cpp.s
 .PHONY : BOJ/Basic/1008._A_divide_B.cpp.s
 
+BOJ/Basic/1009._분산처리.o: BOJ/Basic/1009._분산처리.cpp.o
+
+.PHONY : BOJ/Basic/1009._분산처리.o
+
+# target to build an object file
+BOJ/Basic/1009._분산처리.cpp.o:
+	$(MAKE) -f CMakeFiles/eastgerm_algo.dir/build.make CMakeFiles/eastgerm_algo.dir/BOJ/Basic/1009._분산처리.cpp.o
+.PHONY : BOJ/Basic/1009._분산처리.cpp.o
+
+BOJ/Basic/1009._분산처리.i: BOJ/Basic/1009._분산처리.cpp.i
+
+.PHONY : BOJ/Basic/1009._분산처리.i
+
+# target to preprocess a source file
+BOJ/Basic/1009._분산처리.cpp.i:
+	$(MAKE) -f CMakeFiles/eastgerm_algo.dir/build.make CMakeFiles/eastgerm_algo.dir/BOJ/Basic/1009._분산처리.cpp.i
+.PHONY : BOJ/Basic/1009._분산처리.cpp.i
+
+BOJ/Basic/1009._분산처리.s: BOJ/Basic/1009._분산처리.cpp.s
+
+.PHONY : BOJ/Basic/1009._분산처리.s
+
+# target to generate assembly for a file
+BOJ/Basic/1009._분산처리.cpp.s:
+	$(MAKE) -f CMakeFiles/eastgerm_algo.dir/build.make CMakeFiles/eastgerm_algo.dir/BOJ/Basic/1009._분산처리.cpp.s
+.PHONY : BOJ/Basic/1009._분산처리.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -192,6 +219,9 @@ help:
 	@echo "... BOJ/Basic/1008._A_divide_B.o"
 	@echo "... BOJ/Basic/1008._A_divide_B.i"
 	@echo "... BOJ/Basic/1008._A_divide_B.s"
+	@echo "... BOJ/Basic/1009._분산처리.o"
+	@echo "... BOJ/Basic/1009._분산처리.i"
+	@echo "... BOJ/Basic/1009._분산처리.s"
 .PHONY : help
 
 
