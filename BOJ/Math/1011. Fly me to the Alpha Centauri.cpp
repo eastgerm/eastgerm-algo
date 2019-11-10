@@ -51,7 +51,7 @@ void input() {
 long long fly() {
     long long dist = y - x;
     for (long long i = 1;; i++) {
-        if(dist > dp[i]) continue;
+        if (dist > dp[i]) continue;
         return i;
     }
 }
