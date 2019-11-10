@@ -1,1 +1,1 @@
-/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/eastgerm_algo.dir/BOJ/Basic/1000._A+B.cpp.o  -o eastgerm_algo 
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/eastgerm_algo.dir/BOJ/Math/1011._Fly_me_to_the_Alpha_Centauri.cpp.o  -o eastgerm_algo 

@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/eastgerm_algo.dir/BOJ/Basic/1000._A+B.cpp.o"
+  "CMakeFiles/eastgerm_algo.dir/BOJ/Math/1011._Fly_me_to_the_Alpha_Centauri.cpp.o"
   "eastgerm_algo.pdb"
   "eastgerm_algo"
 )

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/kimdong/Desktop/eastgerm-algo/BOJ/Basic/1000. A+B.cpp" "/Users/kimdong/Desktop/eastgerm-algo/cmake-build-debug/CMakeFiles/eastgerm_algo.dir/BOJ/Basic/1000._A+B.cpp.o"
+  "/Users/kimdong/Desktop/eastgerm-algo/BOJ/Math/1011. Fly me to the Alpha Centauri.cpp" "/Users/kimdong/Desktop/eastgerm-algo/cmake-build-debug/CMakeFiles/eastgerm_algo.dir/BOJ/Math/1011._Fly_me_to_the_Alpha_Centauri.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

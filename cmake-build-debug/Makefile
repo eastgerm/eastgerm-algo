@@ -123,32 +123,32 @@ eastgerm_algo/fast:
 	$(MAKE) -f CMakeFiles/eastgerm_algo.dir/build.make CMakeFiles/eastgerm_algo.dir/build
 .PHONY : eastgerm_algo/fast
 
-BOJ/Basic/1000._A+B.o: BOJ/Basic/1000._A+B.cpp.o
+BOJ/Math/1011._Fly_me_to_the_Alpha_Centauri.o: BOJ/Math/1011._Fly_me_to_the_Alpha_Centauri.cpp.o
 
-.PHONY : BOJ/Basic/1000._A+B.o
+.PHONY : BOJ/Math/1011._Fly_me_to_the_Alpha_Centauri.o
 
 # target to build an object file
-BOJ/Basic/1000._A+B.cpp.o:
-	$(MAKE) -f CMakeFiles/eastgerm_algo.dir/build.make CMakeFiles/eastgerm_algo.dir/BOJ/Basic/1000._A+B.cpp.o
-.PHONY : BOJ/Basic/1000._A+B.cpp.o
+BOJ/Math/1011._Fly_me_to_the_Alpha_Centauri.cpp.o:
+	$(MAKE) -f CMakeFiles/eastgerm_algo.dir/build.make CMakeFiles/eastgerm_algo.dir/BOJ/Math/1011._Fly_me_to_the_Alpha_Centauri.cpp.o
+.PHONY : BOJ/Math/1011._Fly_me_to_the_Alpha_Centauri.cpp.o
 
-BOJ/Basic/1000._A+B.i: BOJ/Basic/1000._A+B.cpp.i
+BOJ/Math/1011._Fly_me_to_the_Alpha_Centauri.i: BOJ/Math/1011._Fly_me_to_the_Alpha_Centauri.cpp.i
 
-.PHONY : BOJ/Basic/1000._A+B.i
+.PHONY : BOJ/Math/1011._Fly_me_to_the_Alpha_Centauri.i
 
 # target to preprocess a source file
-BOJ/Basic/1000._A+B.cpp.i:
-	$(MAKE) -f CMakeFiles/eastgerm_algo.dir/build.make CMakeFiles/eastgerm_algo.dir/BOJ/Basic/1000._A+B.cpp.i
-.PHONY : BOJ/Basic/1000._A+B.cpp.i
+BOJ/Math/1011._Fly_me_to_the_Alpha_Centauri.cpp.i:
+	$(MAKE) -f CMakeFiles/eastgerm_algo.dir/build.make CMakeFiles/eastgerm_algo.dir/BOJ/Math/1011._Fly_me_to_the_Alpha_Centauri.cpp.i
+.PHONY : BOJ/Math/1011._Fly_me_to_the_Alpha_Centauri.cpp.i
 
-BOJ/Basic/1000._A+B.s: BOJ/Basic/1000._A+B.cpp.s
+BOJ/Math/1011._Fly_me_to_the_Alpha_Centauri.s: BOJ/Math/1011._Fly_me_to_the_Alpha_Centauri.cpp.s
 
-.PHONY : BOJ/Basic/1000._A+B.s
+.PHONY : BOJ/Math/1011._Fly_me_to_the_Alpha_Centauri.s
 
 # target to generate assembly for a file
-BOJ/Basic/1000._A+B.cpp.s:
-	$(MAKE) -f CMakeFiles/eastgerm_algo.dir/build.make CMakeFiles/eastgerm_algo.dir/BOJ/Basic/1000._A+B.cpp.s
-.PHONY : BOJ/Basic/1000._A+B.cpp.s
+BOJ/Math/1011._Fly_me_to_the_Alpha_Centauri.cpp.s:
+	$(MAKE) -f CMakeFiles/eastgerm_algo.dir/build.make CMakeFiles/eastgerm_algo.dir/BOJ/Math/1011._Fly_me_to_the_Alpha_Centauri.cpp.s
+.PHONY : BOJ/Math/1011._Fly_me_to_the_Alpha_Centauri.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... eastgerm_algo"
-	@echo "... BOJ/Basic/1000._A+B.o"
-	@echo "... BOJ/Basic/1000._A+B.i"
-	@echo "... BOJ/Basic/1000._A+B.s"
+	@echo "... BOJ/Math/1011._Fly_me_to_the_Alpha_Centauri.o"
+	@echo "... BOJ/Math/1011._Fly_me_to_the_Alpha_Centauri.i"
+	@echo "... BOJ/Math/1011._Fly_me_to_the_Alpha_Centauri.s"
 .PHONY : help
 
 

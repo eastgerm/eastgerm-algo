@@ -57,27 +57,27 @@ include CMakeFiles/eastgerm_algo.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/eastgerm_algo.dir/flags.make
 
-CMakeFiles/eastgerm_algo.dir/BOJ/Basic/1000._A+B.cpp.o: CMakeFiles/eastgerm_algo.dir/flags.make
-CMakeFiles/eastgerm_algo.dir/BOJ/Basic/1000._A+B.cpp.o: ../BOJ/Basic/1000.\ A+B.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kimdong/Desktop/eastgerm-algo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/eastgerm_algo.dir/BOJ/Basic/1000._A+B.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/eastgerm_algo.dir/BOJ/Basic/1000._A+B.cpp.o -c "/Users/kimdong/Desktop/eastgerm-algo/BOJ/Basic/1000. A+B.cpp"
+CMakeFiles/eastgerm_algo.dir/BOJ/Math/1011._Fly_me_to_the_Alpha_Centauri.cpp.o: CMakeFiles/eastgerm_algo.dir/flags.make
+CMakeFiles/eastgerm_algo.dir/BOJ/Math/1011._Fly_me_to_the_Alpha_Centauri.cpp.o: ../BOJ/Math/1011.\ Fly\ me\ to\ the\ Alpha\ Centauri.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kimdong/Desktop/eastgerm-algo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/eastgerm_algo.dir/BOJ/Math/1011._Fly_me_to_the_Alpha_Centauri.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/eastgerm_algo.dir/BOJ/Math/1011._Fly_me_to_the_Alpha_Centauri.cpp.o -c "/Users/kimdong/Desktop/eastgerm-algo/BOJ/Math/1011. Fly me to the Alpha Centauri.cpp"
 
-CMakeFiles/eastgerm_algo.dir/BOJ/Basic/1000._A+B.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/eastgerm_algo.dir/BOJ/Basic/1000._A+B.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/kimdong/Desktop/eastgerm-algo/BOJ/Basic/1000. A+B.cpp" > CMakeFiles/eastgerm_algo.dir/BOJ/Basic/1000._A+B.cpp.i
+CMakeFiles/eastgerm_algo.dir/BOJ/Math/1011._Fly_me_to_the_Alpha_Centauri.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/eastgerm_algo.dir/BOJ/Math/1011._Fly_me_to_the_Alpha_Centauri.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/kimdong/Desktop/eastgerm-algo/BOJ/Math/1011. Fly me to the Alpha Centauri.cpp" > CMakeFiles/eastgerm_algo.dir/BOJ/Math/1011._Fly_me_to_the_Alpha_Centauri.cpp.i
 
-CMakeFiles/eastgerm_algo.dir/BOJ/Basic/1000._A+B.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/eastgerm_algo.dir/BOJ/Basic/1000._A+B.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/kimdong/Desktop/eastgerm-algo/BOJ/Basic/1000. A+B.cpp" -o CMakeFiles/eastgerm_algo.dir/BOJ/Basic/1000._A+B.cpp.s
+CMakeFiles/eastgerm_algo.dir/BOJ/Math/1011._Fly_me_to_the_Alpha_Centauri.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/eastgerm_algo.dir/BOJ/Math/1011._Fly_me_to_the_Alpha_Centauri.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/kimdong/Desktop/eastgerm-algo/BOJ/Math/1011. Fly me to the Alpha Centauri.cpp" -o CMakeFiles/eastgerm_algo.dir/BOJ/Math/1011._Fly_me_to_the_Alpha_Centauri.cpp.s
 
 # Object files for target eastgerm_algo
 eastgerm_algo_OBJECTS = \
-"CMakeFiles/eastgerm_algo.dir/BOJ/Basic/1000._A+B.cpp.o"
+"CMakeFiles/eastgerm_algo.dir/BOJ/Math/1011._Fly_me_to_the_Alpha_Centauri.cpp.o"
 
 # External object files for target eastgerm_algo
 eastgerm_algo_EXTERNAL_OBJECTS =
 
-eastgerm_algo: CMakeFiles/eastgerm_algo.dir/BOJ/Basic/1000._A+B.cpp.o
+eastgerm_algo: CMakeFiles/eastgerm_algo.dir/BOJ/Math/1011._Fly_me_to_the_Alpha_Centauri.cpp.o
 eastgerm_algo: CMakeFiles/eastgerm_algo.dir/build.make
 eastgerm_algo: CMakeFiles/eastgerm_algo.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/kimdong/Desktop/eastgerm-algo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable eastgerm_algo"
